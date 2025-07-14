@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>문정민 | 백엔드 개발자</title><link>https://mun-jeong-min.github.io/</link><description>Recent content on 문정민 | 백엔드 개발자</description><generator>Hugo -- 0.148.1</generator><language>ko-kr</language><lastBuildDate>Sat, 12 Jul 2025 14:01:00 +0900</lastBuildDate><atom:link href="https://mun-jeong-min.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>대외활동 및 개발 철학</title><link>https://mun-jeong-min.github.io/activities/</link><pubDate>Sat, 12 Jul 2025 14:01:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/activities/</guid><description>&lt;h2 id="-activities--others">🏃‍♂️ Activities &amp;amp; Others&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>2023:&lt;/strong> 하이톤 (Highthon) 해커톤 참여 및 &amp;lsquo;하루틴&amp;rsquo; 프로젝트 개발&lt;/li>
+&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨어마이스터고 연합 해커톤 참여 및 &amp;lsquo;늘보람&amp;rsquo; 프로젝트 개발&lt;/li>
+&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨이브(Softwave) 전시회 참가 - 백엔드 개발 프로젝트 시연&lt;/li>
+&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨어 마이스터고등학교 연합 토크 콘서트 참여&lt;/li>
+&lt;li>&lt;strong>2022:&lt;/strong> DDGB IT SW 웨비나 참여&lt;/li>
+&lt;li>&lt;strong>2023:&lt;/strong> 원티드 x 인프런 Kotlin &amp;amp; Spring 네트워킹 밋업 참여&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-관심사-및-개발-철학">✨ 관심사 및 개발 철학&lt;/h2>
+&lt;blockquote>
+&lt;p>새로운 기술과 경험에 도전하는 것을 즐기며, 스포츠(축구, 야구, 농구 등)처럼 개발에서도 열정을 가지고 임합니다. 익숙한 기술 반복보다는 더 나은 기술이 있다면 적극적으로 학습하고 프로젝트에 도입하여 성장하는 것을 중요하게 생각합니다.&lt;/p></description></item><item><title>포트폴리오</title><link>https://mun-jeong-min.github.io/portfolio/</link><pubDate>Sat, 12 Jul 2025 14:00:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/portfolio/</guid><description>&lt;h2 id="-contact">📞 Contact&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>E-mail:&lt;/strong> &lt;a href="mailto:moondeve41@gmail.com">moondeve41@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Github:&lt;/strong> &lt;a href="https://github.com/mun-jeong-min">https://github.com/mun-jeong-min&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Call:&lt;/strong> 010-3019-1752&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-skills--certificate">🛠️ Skills &amp;amp; Certificate&lt;/h2>
+&lt;h3 id="backend">Backend&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Java&lt;/li>
+&lt;li>&lt;strong>Frameworks/Libraries:&lt;/strong> Spring Boot, Spring Data JPA, Spring Security, QueryDSL&lt;/li>
+&lt;li>&lt;strong>Database:&lt;/strong> MySQL, Redis&lt;/li>
+&lt;li>&lt;strong>Etc:&lt;/strong> Git, Gradle&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops--cloud">DevOps / Cloud&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Cloud:&lt;/strong> AWS (EC2, RDS, S3)&lt;/li>
+&lt;li>&lt;strong>CI/CD:&lt;/strong> GitHub Actions&lt;/li>
+&lt;li>&lt;strong>Container:&lt;/strong> Docker, Docker Swarm&lt;/li>
+&lt;/ul>
+&lt;h3 id="certificate">Certificate&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>SQLD (SQL 개발자)&lt;/strong> - 한국데이터베이스진흥원 (2022)&lt;/li>
+&lt;li>&lt;strong>정보처리기능사&lt;/strong> - 한국산업인력공단 (2021)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-work-experience">🏢 Work Experience&lt;/h2>
+&lt;h3 id="디리아-diria">&lt;strong>디리아 (Diria)&lt;/strong>&lt;/h3>
+&lt;p>&lt;em>기간: 2023.10 ~ 2024.08 / 직무: 백엔드 개발자 (정규직)&lt;/em>&lt;/p>
+&lt;h4 id="1-금융-기관-연계-시스템-백엔드-api-설계-및-개발">1. 금융 기관 연계 시스템 백엔드 API 설계 및 개발&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>수행 내용:&lt;/strong>
+&lt;ul>
+&lt;li>금융기관 api설계서를 기반으로 회사 프로그램과 연동하는 백엔드 RESTful API 설계 및 개발&lt;/li>
+&lt;li>리눅스 서버별 ssh 접속을 통한 파일 압축/이동 및 대용량 파일 이동 시 전송률 표시 기능 개발&lt;/li>
+&lt;li>예외 처리 로직 강화를 통한 서비스 안정성 확보&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>사용 기술:&lt;/strong> Java 8, Spring Boot 2.7, RESTful API, Git, IntelliJ IDEA&lt;/li>
+&lt;li>&lt;strong>결과/성과:&lt;/strong>
+&lt;ul>
+&lt;li>성공적인 API 개발 및 연동 테스트 완료, 기존에 없던 연동 프로그램 개발&lt;/li>
+&lt;li>명확한 API 문서화를 통해 개발 효율성 증가&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="2-레거시-코드-분석-및-리팩토링-통한-시스템-안정성-및-유지보수성-개선">2. 레거시 코드 분석 및 리팩토링 통한 시스템 안정성 및 유지보수성 개선&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>수행 내용:&lt;/strong>
+&lt;ul>
+&lt;li>특정 핵심 모듈의 레거시 코드 분석 후 리팩토링 및 테스트 진행&lt;/li>
+&lt;li>중복 코드 제거, 복잡한 조건문 단순화 등으로 코드 가독성, 응집도, 재사용성 향상&lt;/li>
+&lt;li>부족했던 주요 로직에 대한 단위 테스트 코드 작성으로 코드 안정성 확보&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>사용 기술:&lt;/strong> Java, Spring Framework, JUnit 5, Mockito&lt;/li>
+&lt;li>&lt;strong>결과/성과:&lt;/strong>
+&lt;ul>
+&lt;li>테스트 코드 도입으로 기능 및 버그 테스트를 로컬 환경에서 간편하게 수행 가능&lt;/li>
+&lt;li>레거시 코드 분석 및 리팩토링으로 코드 복잡도 개선&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="3-금융캐피탈-현장작업---oracle에서-mysql로-마이그레이션-작업">3. 금융캐피탈 현장작업 - Oracle에서 MySQL로 마이그레이션 작업&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>수행 내용:&lt;/strong>
+&lt;ul>
+&lt;li>기존 Oracle DB를 비용 효율적인 MySQL로 전환하는 프로젝트 참여&lt;/li>
+&lt;li>데이터 이관을 위한 SQL 스크립트 검토 및 테스트 환경 실행 지원&lt;/li>
+&lt;li>마이그레이션 완료 후, 원본-이관 데이터 정합성 검증 SQL 쿼리 작성 및 실행&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>사용 기술:&lt;/strong> Oracle SQL, MySQL SQL, DBeaver&lt;/li>
+&lt;li>&lt;strong>결과/성과:&lt;/strong>
+&lt;ul>
+&lt;li>데이터 타입 매핑, null 처리, 파티션, PK 등 다양한 설정 유지 확인&lt;/li>
+&lt;li>체계적인 데이터 정합성 검증으로 오류 없이 안정적인 DB 마이그레이션 완료&lt;/li>
+&lt;li>마이그레이션 이후 데이터 불일치로 인한 서비스 장애 발생률 없음&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="4-사이트별-정기점검-작업">4. 사이트별 정기점검 작업&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>수행 내용:&lt;/strong>
+&lt;ul>
+&lt;li>4~5개 고객사 시스템 대상 월/분기별 정기 점검 계획 수립 및 실행&lt;/li>
+&lt;li>정기 점검 중 발견된 이슈나 성능 저하 요인에 대해 선제적 조치&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>사용 기술:&lt;/strong> Linux/Unix 환경 운영&lt;/li>
+&lt;li>&lt;strong>결과/성과:&lt;/strong>
+&lt;ul>
+&lt;li>담당 시스템의 가용성 유지 및 안정적인 서비스 운영에 기여&lt;/li>
+&lt;li>신속/정확한 기술 지원으로 고객 만족도 제고 및 피드백을 서비스 개선에 반영&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="5-코드-리뷰-및-페어-프로그래밍-참여를-통한-협업-역량-증진">5. 코드 리뷰 및 페어 프로그래밍 참여를 통한 협업 역량 증진&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>수행 내용:&lt;/strong>
+&lt;ul>
+&lt;li>Git Pull Request를 활용한 팀 코드 리뷰 프로세스에 주 N회 이상 참여&lt;/li>
+&lt;li>복잡한 기능 개발 및 신규 기술 도입 시 페어 프로그래밍으로 문제 해결&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>사용 기술:&lt;/strong> Git (Pull Request), Code Review&lt;/li>
+&lt;li>&lt;strong>결과/성과:&lt;/strong>
+&lt;ul>
+&lt;li>팀 전체 코드의 잠재적 버그 발견율을 높이고 코드 품질 표준 상향 평준화&lt;/li>
+&lt;li>페어 프로그래밍으로 복잡한 문제 해결 시간 단축 및 기술적 성장 촉진&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
