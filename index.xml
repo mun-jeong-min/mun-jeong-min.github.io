@@ -1,87 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>문정민 | 백엔드 개발자</title><link>https://mun-jeong-min.github.io/</link><description>Recent content on 문정민 | 백엔드 개발자</description><generator>Hugo -- 0.148.2</generator><language>ko-kr</language><lastBuildDate>Sat, 12 Jul 2025 14:01:00 +0900</lastBuildDate><atom:link href="https://mun-jeong-min.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>대외활동 및 개발 철학</title><link>https://mun-jeong-min.github.io/activities/</link><pubDate>Sat, 12 Jul 2025 14:01:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/activities/</guid><description>&lt;h2 id="-activities--others">🏃‍♂️ Activities &amp;amp; Others&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>2023:&lt;/strong> 하이톤 (Highthon) 해커톤 참여 및 &amp;lsquo;하루틴&amp;rsquo; 프로젝트 개발&lt;/li>
-&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨어마이스터고 연합 해커톤 참여&lt;/li>
-&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨이브(Softwave) 전시회 참가 - 코엑스에서 개발 프로젝트 시연
-&lt;a href="https://github.com/Daily-Boram/daily-boram-spring">GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;strong>2022:&lt;/strong> 소프트웨어 마이스터고등학교 연합 토크 콘서트 참여&lt;/li>
-&lt;li>&lt;strong>2022:&lt;/strong> DDGB IT SW 웨비나 참여&lt;/li>
-&lt;li>&lt;strong>2023:&lt;/strong> 원티드 x 인프런 Kotlin &amp;amp; Spring 네트워킹 밋업 참여&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-관심사-및-개발-철학">✨ 관심사 및 개발 철학&lt;/h2>
-&lt;blockquote>
-&lt;p>새로운 기술과 경험에 도전하는 것을 즐기며, 스포츠(축구, 야구, 농구 등)처럼 개발에서도 열정을 가지고 임합니다. 익숙한 기술 반복보다는 더 나은 기술이 있다면 적극적으로 학습하고 프로젝트에 도입하여 성장하는 것을 중요하게 생각합니다.&lt;/p></description></item><item><title>이력</title><link>https://mun-jeong-min.github.io/history/</link><pubDate>Sat, 12 Jul 2025 14:01:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/history/</guid><description>&lt;h1 id="-이력서">🧑‍💻 이력서&lt;/h1>
-&lt;hr>
-&lt;h2 id="-학력">🎓 학력&lt;/h2>
-&lt;blockquote>
-&lt;p>&lt;strong>대덕소프트웨어마이스터고등학교 졸업&lt;/strong> (2021.03 - 2024.01)&lt;/p>
-&lt;ul>
-&lt;li>💻 소프트웨어개발과&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>방송통신대학교 재학&lt;/strong> (2024.03-)&lt;/p>
-&lt;ul>
-&lt;li>💻 컴퓨터과학과&lt;/li>
-&lt;/ul>&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="-경력">💼 경력&lt;/h2>
-&lt;blockquote>
-&lt;p>&lt;strong>(주)디리아 백엔드 개발자&lt;/strong> (2023.10 - 2024.08)&lt;/p>
-&lt;ul>
-&lt;li>🏦 은행, 카드, 보험 등 다양한 금융권 연계 솔루션을 제공하는 회사입니다.&lt;/li>
-&lt;li>기존 금융사 시스템을 유지보수하고, JDK 21 버전을 사용하는 신규 프로젝트에 초기부터 참여하여 백엔드 개발을 전반적으로 담당했습니다.&lt;/li>
-&lt;/ul>&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="-활동">✨ 활동&lt;/h2>
-&lt;h3 id="-늘보람">🚀 늘보람&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>포지션:&lt;/strong> 백엔드 개발 리더&lt;/li>
-&lt;li>&lt;strong>성과:&lt;/strong> 2022 SOFTWAVE 코엑스 전시 참여&lt;/li>
-&lt;li>&lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/Daily-Boram/daily-boram-spring">Daily-Boram/daily-boram-spring&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div style="text-align: center; margin-bottom: 2rem;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>문정민 | 백엔드 개발자</title><link>https://mun-jeong-min.github.io/</link><description>Recent content on 문정민 | 백엔드 개발자</description><generator>Hugo -- 0.155.3</generator><language>ko-kr</language><lastBuildDate>Sat, 12 Jul 2025 14:01:00 +0900</lastBuildDate><atom:link href="https://mun-jeong-min.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>대외활동 및 개발 철학</title><link>https://mun-jeong-min.github.io/activities/</link><pubDate>Sat, 12 Jul 2025 14:01:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/activities/</guid><description>&lt;h2 id="-activities--others"&gt;🏃‍♂️ Activities &amp;amp; Others&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023:&lt;/strong&gt; 하이톤 (Highthon) 해커톤 참여 및 &amp;lsquo;하루틴&amp;rsquo; 프로젝트 개발&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; 소프트웨어마이스터고 연합 해커톤 참여&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; 소프트웨이브(Softwave) 전시회 참가 - 코엑스에서 개발 프로젝트 시연
+&lt;a href="https://github.com/Daily-Boram/daily-boram-spring"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; 소프트웨어 마이스터고등학교 연합 토크 콘서트 참여&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; DDGB IT SW 웨비나 참여&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023:&lt;/strong&gt; 원티드 x 인프런 Kotlin &amp;amp; Spring 네트워킹 밋업 참여&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-관심사-및-개발-철학"&gt;✨ 관심사 및 개발 철학&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;새로운 기술과 경험에 도전하는 것을 즐기며, 스포츠(축구, 야구, 농구 등)처럼 개발에서도 열정을 가지고 임합니다. 익숙한 기술 반복보다는 더 나은 기술이 있다면 적극적으로 학습하고 프로젝트에 도입하여 성장하는 것을 중요하게 생각합니다.&lt;/p&gt;</description></item><item><title>이력</title><link>https://mun-jeong-min.github.io/history/</link><pubDate>Sat, 12 Jul 2025 14:01:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/history/</guid><description>&lt;h1 id="-이력서"&gt;🧑‍💻 이력서&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id="-학력"&gt;🎓 학력&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;대덕소프트웨어마이스터고등학교 졸업&lt;/strong&gt; (2021.03 - 2024.01)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 소프트웨어개발과&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;방송통신대학교 재학&lt;/strong&gt; (2024.03-)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 컴퓨터과학과&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-경력"&gt;💼 경력&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;(주)바로바이오 백엔드 개발자&lt;/strong&gt; (2025.10 - 현재)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧬 바이오/헬스케어 분야의 연구 데이터 관리 및 의약품 정보 플랫폼을 제공하는 회사입니다.&lt;/li&gt;
+&lt;li&gt;연구데이터 관리시스템, 의약품 AI 비서, 이커머스 쇼핑몰 등 다양한 프로젝트의 백엔드 개발을 담당하고 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;(주)디리아 백엔드 개발자&lt;/strong&gt; (2023.10 - 2024.08)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🏦 은행, 카드, 보험 등 다양한 금융권 연계 솔루션을 제공하는 회사입니다.&lt;/li&gt;
+&lt;li&gt;기존 금융사 시스템을 유지보수하고, JDK 21 버전을 사용하는 신규 프로젝트에 초기부터 참여하여 백엔드 개발을 전반적으로 담당했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-활동"&gt;✨ 활동&lt;/h2&gt;
+&lt;h3 id="-늘보람"&gt;🚀 늘보람&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;포지션:&lt;/strong&gt; 백엔드 개발 리더&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;성과:&lt;/strong&gt; 2022 SOFTWAVE 코엑스 전시 참여&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href="https://github.com/Daily-Boram/daily-boram-spring"&gt;Daily-Boram/daily-boram-spring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: center; margin-bottom: 2rem;"&gt;
 &lt;img src="https://mun-jeong-min.github.io/images/boram.png"
 alt="늘보람 프로젝트 사진"
 width="400"
 height="400"
-style="object-fit: cover;">
-&lt;/div>
-&lt;br>
-&lt;h3 id="-하루틴">🏃 하루틴&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>포지션:&lt;/strong> 백엔드 단독 개발&lt;/li>
-&lt;li>&lt;strong>성과:&lt;/strong> 2023 Highton 해커톤 참여&lt;/li>
-&lt;li>&lt;strong>소개:&lt;/strong> 사용자들이 각자의 루틴을 게시하고 공유하며 다양한 루틴을 경험하는 것을 목표로 제작한 프로젝트입니다.&lt;/li>
-&lt;li>&lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/Highthon-HypeBoy/project-r-server">Highthon-HypeBoy/project-r-server&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr></description></item><item><title>포트폴리오</title><link>https://mun-jeong-min.github.io/portfolio/</link><pubDate>Sat, 12 Jul 2025 14:00:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/portfolio/</guid><description>&lt;h2 id="-contact">📞 Contact&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>E-mail:&lt;/strong> &lt;a href="mailto:moondeve41@gmail.com">moondeve41@gmail.com&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Github:&lt;/strong> &lt;a href="https://github.com/mun-jeong-min">https://github.com/mun-jeong-min&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Call:&lt;/strong> 010-3019-1752&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-skills--certificate">🛠️ Skills &amp;amp; Certificate&lt;/h2>
-&lt;h3 id="backend">Backend&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Languages:&lt;/strong> Java&lt;/li>
-&lt;li>&lt;strong>Frameworks/Libraries:&lt;/strong> Spring Boot, Spring Data JPA, Spring Security, QueryDSL&lt;/li>
-&lt;li>&lt;strong>Database:&lt;/strong> MySQL, Redis&lt;/li>
-&lt;li>&lt;strong>Etc:&lt;/strong> Git, Gradle&lt;/li>
-&lt;/ul>
-&lt;h3 id="devops--cloud">DevOps / Cloud&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Cloud:&lt;/strong> AWS (EC2, RDS, S3)&lt;/li>
-&lt;li>&lt;strong>CI/CD:&lt;/strong> GitHub Actions&lt;/li>
-&lt;li>&lt;strong>Container:&lt;/strong> Docker, Docker Swarm&lt;/li>
-&lt;/ul>
-&lt;h3 id="certificate">Certificate&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>SQLD (SQL 개발자)&lt;/strong> - 한국데이터베이스진흥원 (2022)&lt;/li>
-&lt;li>&lt;strong>정보처리기능사&lt;/strong> - 한국산업인력공단 (2021)&lt;/li>
-&lt;li>&lt;strong>정보기기운용사&lt;/strong> - 한국산업인력공단 (2023)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-work-experience">🏢 Work Experience&lt;/h2>
-&lt;h3 id="디리아-diria">&lt;strong>디리아 (Diria)&lt;/strong>&lt;/h3>
-&lt;p>&lt;em>기간: 2023.10 ~ 2024.08 / 직무: 백엔드 개발자 (정규직)&lt;/em>&lt;/p></description></item></channel></rss>
+style="object-fit: cover;"&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h3 id="-하루틴"&gt;🏃 하루틴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;포지션:&lt;/strong&gt; 백엔드 단독 개발&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;성과:&lt;/strong&gt; 2023 Highton 해커톤 참여&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;소개:&lt;/strong&gt; 사용자들이 각자의 루틴을 게시하고 공유하며 다양한 루틴을 경험하는 것을 목표로 제작한 프로젝트입니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href="https://github.com/Highthon-HypeBoy/project-r-server"&gt;Highthon-HypeBoy/project-r-server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description></item><item><title>포트폴리오</title><link>https://mun-jeong-min.github.io/portfolio/</link><pubDate>Sat, 12 Jul 2025 14:00:00 +0900</pubDate><guid>https://mun-jeong-min.github.io/portfolio/</guid><description>&lt;h2 id="-contact"&gt;📞 Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; &lt;a href="mailto:moondeve41@gmail.com"&gt;moondeve41@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Github:&lt;/strong&gt; &lt;a href="https://github.com/mun-jeong-min"&gt;https://github.com/mun-jeong-min&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Call:&lt;/strong&gt; 010-3019-1752&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-skills--certificate"&gt;🛠️ Skills &amp;amp; Certificate&lt;/h2&gt;
+&lt;h3 id="backend"&gt;Backend&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks/Libraries:&lt;/strong&gt; Spring Boot, Spring Data JPA, Spring Security, QueryDSL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database:&lt;/strong&gt; MySQL, Redis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Etc:&lt;/strong&gt; Git, Gradle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="devops--cloud"&gt;DevOps / Cloud&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cloud:&lt;/strong&gt; AWS (EC2, RDS, S3)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD:&lt;/strong&gt; GitHub Actions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Container:&lt;/strong&gt; Docker, Docker Swarm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="certificate"&gt;Certificate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SQLD (SQL 개발자)&lt;/strong&gt; - 한국데이터베이스진흥원 (2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;정보처리기능사&lt;/strong&gt; - 한국산업인력공단 (2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;정보기기운용사&lt;/strong&gt; - 한국산업인력공단 (2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-work-experience"&gt;🏢 Work Experience&lt;/h2&gt;
+&lt;h3 id="디리아-diria"&gt;&lt;strong&gt;디리아 (Diria)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;기간: 2023.10 ~ 2024.08 / 직무: 백엔드 개발자 (정규직)&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
